@@ -1,4 +1,4 @@
-package com.fernandopaniagua.demo;
+package com.fernandopaniagua.demo.modelo;
 
 /**
  * Representa una <a href="https://es.wikipedia.org/wiki/Factura" target="_blank">factura</a> en el sistema.
